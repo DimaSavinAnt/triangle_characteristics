@@ -1,0 +1,5 @@
+﻿  Summer_practice.cpp
+C:\Users\goshi\OneDrive\Рабочий стол\ppc\Summer_practice\Summer_practice.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\goshi\OneDrive\Рабочий стол\ppc\Summer_practice\Summer_practice.cpp(148,76): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\goshi\OneDrive\Рабочий стол\ppc\Summer_practice\Summer_practice.cpp(148,76): message : placeholders and their parameters expect 2 variadic arguments, but 4 were provided
+  Summer_practice.vcxproj -> C:\Users\goshi\OneDrive\Рабочий стол\ppc\Summer_practice\Debug\Summer_practice.exe
